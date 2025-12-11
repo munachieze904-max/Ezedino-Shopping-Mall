@@ -17,3 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 # Ezedino-Shopping-Mall
 # Ezedino-Shopping-Mall
 # Ezedino-Shopping-Mall
+# EZEDINO-SHOPPING-MALL2
